@@ -26,9 +26,6 @@ export default function Navbar() {
                             <Link className={styles.link} href={`/#services`}>Serviços</Link>
                         </li>
                         <li>
-                            <Link className={styles.link} href={`/about`}>Galeria</Link>
-                        </li>
-                        <li>
                             <Link className={styles.link} href={`/about`}>Localização</Link>
                         </li>
                         <li>
